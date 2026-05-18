@@ -31,4 +31,9 @@ button {
     width: 100px;
     height: 25px;
     border-radius: 50px;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.05);
 }
