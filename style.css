@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    text-align: center;
+    color : white;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer img {
+    width: 50px;
+    height: 50px; 
+    margin: 0 5px;
+}
+
+footer a {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+footer p {
+    color: white;
+    text-decoration: none;
+}
+
+nav p:hover {
+    color: gray;
+}
+
+button {
+    width: 100px;
+    height: 25px;
+    border-radius: 50px;
+}
